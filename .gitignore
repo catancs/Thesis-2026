@@ -1,0 +1,13 @@
+# MacOS
+.DS_Store
+
+# Virtual Environment
+venv/
+
+# Large Language Models
+LLM-Models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
